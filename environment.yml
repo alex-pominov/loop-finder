@@ -1,0 +1,12 @@
+name: loop_finder
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - opencv=4.1.0
+  - notebook
+  - matplotlib
+  - jupyter
+  - docopt
+  - schema
+  - ffmpeg-python

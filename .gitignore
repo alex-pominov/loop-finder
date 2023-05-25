@@ -1,0 +1,20 @@
+######################
+# Project Specific
+######################
+output
+*.zip
+__pycache__
+result
+videos
+
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+.DS_Store
+
